@@ -151,7 +151,7 @@
         }
     }
 
-    @media (max-width: 540px) {
+    @media (max-width: 560px) {
         .bouquet {
             width: 284px;
         }
