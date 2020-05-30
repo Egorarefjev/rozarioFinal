@@ -95,7 +95,7 @@ main {
 
 	}
 }
-@media (max-width: 550px) {
+@media (max-width: 560px) {
 	main {
 		min-width: 320px;
 		width: 320px;
