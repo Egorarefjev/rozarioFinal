@@ -51,6 +51,16 @@
             margin-left: 15px;
         }
     }
+        @media (max-width: 560px) {
+        .flowerSet {
+            width: 284px;
+            height: 241px;
+        }
+        .progressive {
+            width: 284px;
+            height: 170px;
+        }
+    }
 
 
 </style>
